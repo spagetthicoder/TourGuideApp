@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_museums"
+            android:icon="@drawable/ic_account_balance_black_24dp"
+            android:title="Museums" />
+        <item
+            android:id="@+id/nav_hotels"
+            android:icon="@drawable/ic_hotel_black_24dp"
+            android:title="Hotels" />
+        <item
+            android:id="@+id/nav_restaurants"
+            android:icon="@drawable/ic_restaurant_black_24dp"
+            android:title="Restaurants" />
+        <item
+            android:id="@+id/nav_ecopaths"
+            android:icon="@drawable/ic_spa_black_24dp"
+            android:title="Eco Paths" />
+    </group>
+</menu>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Tryavna Tour Guide</string>
+    <string name="app_description">Tryavna is a town in central Bulgaria, situated in the north slopes of the Balkan range, on the Tryavna river valley. It is famous for its textile industry and typical National Revival architecture, featuring 140 cultural monuments, museums and expositions.</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="proboyski_title">Proboyski Guest House</string>
+    <string name="proboyski_location">Bulgaria, Tryavna, Proboyski Guest House</string>
+    <string name="hotel_tryavna_title">Hotel Tryavna</string>
+    <string name="hotel_tryavna_location">Bulgaria, Tryavna, Hotel Tryavna</string>
+
+    <string name="bozhenci_title">Eco Path Bozhenci</string>
+    <string name="bozhentci_location">Bulgaria, Tryavna, Bozhentsite</string>
+
+    <string name="clock_tower_title">The Clock Tower</string>
+    <string name="clock_tower_location">Bulgaria, Tryavna, Clock Tower</string>
+    <string name="daskalov_title">Daskalov House</string>
+    <string name="daskalov_location">Bulgaria, Tryavna, Daskalovata Kyshta</string>
+    <string name="icon_painting_title">Icon Paining Museum</string>
+    <string name="icon_painting_location">Bulgaria, Tryavna, Icon Painting</string>
+    <string name="old_school_title">Old School Museum</string>
+    <string name="old_school_location">Bulgaria, Tryavna, The Old School Museum</string>
+    <string name="raykov_title">Raykov House Museum</string>
+    <string name="raykov_location">Bulgaria, Tryavna, Raykovata Kyshta</string>
+    <string name="slaveykov_title">Slaveykov House Museum</string>
+    <string name="slaveykov_location">Bulgaria, Tryavna, Slaveykovata Kyshta</string>
+
+    <string name="beer_house_title">Beer House - Lucs</string>
+    <string name="beer_house_location">Bulgaria, Tryavna, Beer Hourse</string>
+    <string name="domino_title">Pizzeria Domino</string>
+    <string name="domino_location">Bulgaria, Tryavna, Domino</string>
+</resources>
